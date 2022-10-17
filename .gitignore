@@ -1,0 +1,6 @@
+*.mp4
+.DS_Store
+node_modules/
+output/
+cookies.txt
+cookies.json
